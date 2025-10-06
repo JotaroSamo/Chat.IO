@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspie.AppHost", "Aspie.AppHost\Aspie.AppHost.csproj", "{768AE0C3-C266-4AE6-9AC8-55BA3B3E021E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aspire", "Aspire", "{F1A746CA-238C-409E-B3FC-2641E45F65E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Extension", "Aspire.Extension\Aspire.Extension.csproj", "{7B57E242-0F94-4183-A32D-704BBDDF4F64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Share", "Share", "{79F43CA3-17D9-44FA-9586-C727C1FF7EF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Auth", "Auth", "{0928F76B-6595-4331-90C6-5C764F11AF9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chat", "Chat", "{AEC23421-6F0B-4F5C-A959-8F6C26A8B36B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notification", "Notification", "{FF6E0E09-9FAA-454E-AC25-E8BF295C37BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768AE0C3-C266-4AE6-9AC8-55BA3B3E021E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768AE0C3-C266-4AE6-9AC8-55BA3B3E021E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768AE0C3-C266-4AE6-9AC8-55BA3B3E021E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768AE0C3-C266-4AE6-9AC8-55BA3B3E021E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B57E242-0F94-4183-A32D-704BBDDF4F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B57E242-0F94-4183-A32D-704BBDDF4F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B57E242-0F94-4183-A32D-704BBDDF4F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B57E242-0F94-4183-A32D-704BBDDF4F64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{768AE0C3-C266-4AE6-9AC8-55BA3B3E021E} = {F1A746CA-238C-409E-B3FC-2641E45F65E6}
+		{7B57E242-0F94-4183-A32D-704BBDDF4F64} = {F1A746CA-238C-409E-B3FC-2641E45F65E6}
+	EndGlobalSection
+EndGlobal

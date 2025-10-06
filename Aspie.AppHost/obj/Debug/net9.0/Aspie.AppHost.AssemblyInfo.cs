@@ -17,15 +17,15 @@ using System.Reflection;
     "ols\\ext\\"))]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\a.samoshuk\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.5.0\\to" +
     "ols\\ext\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\a.samoshuk\\RiderProjects\\Chat.IO\\Chat.IO\\Aspie.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\a.samoshuk\\RiderProjects\\Chat.IO\\Chat.IO.Backend\\Aspie.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "Aspie.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\a.samoshuk\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.5.0\\tools\\Aspi" +
     "re.Dashboard.exe"))]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\a.samoshuk\\RiderProjects\\Chat.IO\\Chat.IO\\Aspie.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\a.samoshuk\\RiderProjects\\Chat.IO\\Chat.IO.Backend\\Aspie.AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aspie.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2822a216d81ed4a287d82b182702c1867e9909b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aspie.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aspie.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

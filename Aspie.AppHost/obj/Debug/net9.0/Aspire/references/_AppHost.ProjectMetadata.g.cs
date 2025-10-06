@@ -17,5 +17,5 @@ public class Aspie_AppHost
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\a.samoshuk\RiderProjects\Chat.IO\Chat.IO\Aspie.AppHost""";
+    public static string ProjectPath => """C:\Users\a.samoshuk\RiderProjects\Chat.IO\Chat.IO.Backend\Aspie.AppHost""";
 }
