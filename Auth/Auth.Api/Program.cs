@@ -1,4 +1,5 @@
 using Auth.Api.Infrastructure.Configuration;
+using Auth.Api.Infrastructure.Endpoints;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +27,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapAuthEndpoints();
 
 app.Run();
 
